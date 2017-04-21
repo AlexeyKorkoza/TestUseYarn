@@ -1,0 +1,13 @@
+{
+  "name": "TestUseYarn",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/AlexeyKorkoza/TestUseYarn.git",
+  "author": "AlexeyKorkoza <alexeykorkoza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
